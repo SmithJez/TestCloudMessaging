@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "274269288952",
+    "firebase_url": "https://test-cloud-messaging-8a1b0.firebaseio.com",
+    "project_id": "test-cloud-messaging-8a1b0",
+    "storage_bucket": "test-cloud-messaging-8a1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274269288952:android:0fab8437d5caf2f9",
+        "android_client_info": {
+          "package_name": "com.felania.testcloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274269288952-3m5oo91otq14u6flklgkh668piskk68i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQmXUlcRoH4Q7BgOXgYRBxZhpwHVV3SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
